@@ -1,2 +1,5 @@
 # My-Notes-testing
-A simple notes project while I learn GitHub
+# My Notes
+
+This is my first GitHub project.
+I am learning the basics step by step.
